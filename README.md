@@ -18,6 +18,7 @@
 
 - `bun run test` to run the test suit.
 - `bun run deploy:all <network>` to deploy to a particular network. You can check the files in the `config` folder for the configured networks.
+- Example `bun run deploys:all baseSepolia` will deploy to the base testnet.
 
 ## Top Level Folder Structure
 
